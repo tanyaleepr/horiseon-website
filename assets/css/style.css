@@ -25,8 +25,7 @@ body {
 }
 
 .header h1 {
-    display: inline-block;
-    font-size: 48px;
+        font-size: 48px;
 }
 
 .header h1 .seo {
@@ -84,15 +83,16 @@ body {
     background-color: #0072bb;
     color: #ffffff;
 }
-/*add search-im, service, and h2 to content area */
-.search-img {
+
+.img {
     max-height: 200px;
 }
 
-.search-engine h2 {
+.h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 
 /* style for benefits */
 .benefits {
@@ -133,3 +133,7 @@ body {
 .footer h2 {
     font-size: 20px;
 }
+
+
+
+
