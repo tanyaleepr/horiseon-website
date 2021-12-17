@@ -21,4 +21,4 @@ This project is based on Horiseon's website, especially the homepage. The change
 ### Links
 
 [Link to the code repository] (https://github.com/tanyaleepr/horiseon-website)
-[Link to the deployed website] ()
+[Link to the deployed website] (https://tanyaleepr.github.io/horiseon-website/)
