@@ -19,4 +19,5 @@ This project is based on Horiseon's website, especially the homepage. The change
 * <a href="https://github.com/tanyaleepr/horiseon-website"> Link for code repository </a>
 
 
-<img src="./assets/images/screencapture-tanyaleepr-github-io-horiseon-website-2021-16-22_18_34.png>
+
+![screencapture-tanyaleepr-github-io-horiseon-website-2021-12-16-22_18_34](https://user-images.githubusercontent.com/92898110/146491395-97abfd42-0d69-4dcd-b2f7-de389bb583e7.png)
