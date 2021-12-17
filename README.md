@@ -11,7 +11,6 @@ This project is based on Horiseon's website, especially the homepage. The change
 * Polish the style and positions of each structures in index.html and styles.css
 * Attributes has been organized in sequantial order
 * Descriptive title has been added
-
 ```
 ### Links
 
